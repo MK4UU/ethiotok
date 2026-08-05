@@ -1,0 +1,18 @@
+ETHIOTOK COMPLETE STANDALONE WEBSITE
+
+This version does NOT require an assets folder.
+Every HTML file already contains its own design and JavaScript.
+
+UPLOAD:
+1. Open GitHub repository MK4UU/ethiotok.
+2. Delete the old website HTML files, or upload these files and replace files with matching names.
+3. Upload every file from this package directly to the repository root.
+4. Commit changes.
+5. Wait 1-3 minutes.
+6. Open https://mk4uu.github.io/ethiotok/
+7. Press Ctrl+F5.
+
+Important:
+Privacy: https://mk4uu.github.io/ethiotok/privacy.html
+Delete Account: https://mk4uu.github.io/ethiotok/delete-account.html
+Support: https://mk4uu.github.io/ethiotok/support.html
