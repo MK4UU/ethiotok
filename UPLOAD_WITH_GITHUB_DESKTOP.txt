@@ -1,0 +1,32 @@
+ETHIOTOK WEBSITE 2.0 — GITHUB DESKTOP
+
+This package is standalone. No assets folder is required.
+
+After GitHub Desktop is installed:
+
+1. Sign in to GitHub Desktop.
+2. File > Clone repository.
+3. Select MK4UU/ethiotok.
+4. Choose a local folder such as:
+   C:\Users\moshe\Desktop\ethiotok-website
+5. Open the downloaded EthioTok_Website_2.0.zip and extract it.
+6. Copy ALL extracted files into the cloned repository folder.
+7. When Windows asks, choose Replace the files in the destination.
+8. Return to GitHub Desktop.
+9. In Summary write:
+   EthioTok website 2.0
+10. Click Commit to main.
+11. Click Push origin.
+12. Wait 1-3 minutes and open:
+    https://mk4uu.github.io/ethiotok/
+13. Press Ctrl + F5.
+
+Important URLs:
+Privacy:
+https://mk4uu.github.io/ethiotok/privacy.html
+
+Delete Account:
+https://mk4uu.github.io/ethiotok/delete-account.html
+
+Support:
+https://mk4uu.github.io/ethiotok/support.html
