@@ -1,0 +1,9 @@
+{
+  "name": "EthioTok",
+  "short_name": "EthioTok",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07090c",
+  "theme_color": "#07090c",
+  "description": "Social video and live streaming platform for Ethiopian creators."
+}
