@@ -1,0 +1,16 @@
+ETHIOTOK WEBSITE 3.0
+
+1. Extract this ZIP.
+2. In GitHub Desktop choose the ethiotok repository.
+3. Click Show in Explorer.
+4. Copy ALL extracted files into the repository folder.
+5. Choose Replace files in destination.
+6. Return to GitHub Desktop.
+7. Summary: EthioTok Website 3.0
+8. Commit to main.
+9. Push origin.
+10. Wait 1-3 minutes.
+11. Open https://mk4uu.github.io/ethiotok/
+12. Press Ctrl+F5.
+
+This package is standalone. No assets folder is required.
